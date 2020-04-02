@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cassandra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cassandra\\.nuget\\packages"
+    ]
+  }
+}
