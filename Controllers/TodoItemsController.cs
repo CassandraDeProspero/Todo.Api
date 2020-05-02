@@ -10,7 +10,7 @@ namespace Todo.Api.Controllers
     [Route("api/todos")]
     public class TodoItemsController : ControllerBase
     {
-          private TodoRepository repository;
+          private ITodoRepository repository;
         public TodoItemsController(ITodoRepository todoRepository)
         {
             repository = todoRepository ??
